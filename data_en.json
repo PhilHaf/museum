@@ -1,0 +1,27 @@
+{
+    "001": {
+        
+        "title": "law and gospel",
+        "hasHighlight": true,
+        "hasTitle": true,
+        "highlights": [
+            {
+
+                "id": "snak",
+                "name":"001_hig_snak_001",
+                "isLink": false,
+                "hasSound":false,
+                "withBlur":false,
+                "hasGuiOverlay": false,
+                "highlights": [
+                    {
+        
+                        "id": 2
+        
+                        
+                    }
+                ]
+            }
+        ]
+    }
+}
