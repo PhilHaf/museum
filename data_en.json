@@ -1,7 +1,7 @@
 {
     "001": {
         
-        "title": "law and gospel",
+        "title": "law and el",
         "hasHighlight": true,
         "hasTitle": true,
         "highlights": [
@@ -16,9 +16,10 @@
                 "highlights": [
                     {
         
-                        "id": 2
+                        "id": 2,
         
-                        
+                        "subtitle":"das ist der subtitle",
+
                     }
                 ]
             }
