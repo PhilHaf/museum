@@ -4,25 +4,134 @@
         "title": "law and gospel",
         "hasHighlight": true,
         "hasTitle": true,
-        "highlights": [
-            {
+        "highlights": {
+        "001_hig_snak": {
 
-                "id": "snak",
-                "name":"001_hig_snak_001",
+            "id": "snak",
+            "name":"001_hig_snak",
+            "isLink": false,
+            "hasSound":false,
+            "withBlur":false,
+            "hasGuiOverlay": false,
+            "highlights": {
+                "001_hig_snak_001": {
+                    "hasGuiOverlay": true,
+                    "name":"001_hig_snak_001",
+                    "guiContent": [
+
+                        {
+                            "type": "image",
+                            "imagePath":"001_hig_snak_en",
+                            "text":""
+                        },
+                        {
+                            "type": "text",
+                            "text":"In Numbers 21:4-9, Moses makes a bronze snake as ordered by God, which can save the lives of those who look at it.",
+                            "imagePath":""
+                        },
+                        {
+                            "type": "text",
+                            "text":"John 3:14 refers to moses raising the snake on the cross to save the people, just as Jesus was raised on the corss to save sinners from themselves.",
+                            "imagePath":""
+                        }
+                    ]
+                },
+                "001_hig_snak_002": {
+                    "hasGuiOverlay": true,
+                    "name":"001_hig_snak_002",
+                    "guiContent": [
+
+                        {
+                            "type": "image",
+                            "imagePath":"001_hig_snak_en",
+                            "text":""
+                        },
+                        {
+                            "type": "text",
+                            "text":"Kind Hezekiah refers to the snake as Nehushtan, meaing a brazen thing, or an object made of brass.",
+                            "imagePath":""
+                        }
+                    ]
+                },
+                "001_hig_snak_003": {
+                    "hasGuiOverlay": true,
+                    "name":"001_hig_snak_003",
+                    "guiContent": [
+
+                        {
+                            "type": "image",
+                            "imagePath":"001_hig_snak_en",
+                            "text":""
+                        },
+                        {
+                            "type": "text",
+                            "text":"Moses erected the bronze serpent at the end of the 40-year journey through the desert before reaching the promised land.",
+                            "imagePath":""
+                        },
+                        {
+                            "type": "image",
+                            "imagePath":"001_hig_snak_en",
+                            "text":""
+                        },
+                        {
+                            "type": "text",
+                            "text":"Brazen Serpent Monument. The artist Giovanni Fantoni merged the bronze serpent of Moses on the crucifix on a 10-meter high statue on Mount Nebo, presumed to be the site where Moses died in 1407 B.C.",
+                            "imagePath":""
+                        }
+                    ]
+                }
+            }
+            },
+            "001_lnk_devl": {
+
+                "id": "devl",
+                "name":"001_lnk_devl_001",
                 "isLink": false,
                 "hasSound":false,
                 "withBlur":false,
                 "hasGuiOverlay": false,
-                "highlights": [
-                    {
-        
-                        "id": 2,
-        
-                        "subtitle":"das ist der subtitle",
-                        
+                "highlights": {
+                    "001_lnk_devl_001": {
+                        "hasGuiOverlay": true,
+                        "name":"001_lnk_devl_001",
+                        "guiContent": [
+
+                            {
+                                "type": "image",
+                                "imagePath":"001_lnk_devl_en"
+                            },
+                            {
+                                "type": "text",
+                                "text":"Man cannot meet the demands of the law as determined by Catholicism with his own strengthm so a skeleton representing Death and a horned beast representing the devil prod the sinner into Hell."
+                            }
+                        ]
+                    },
+                    "001_lnk_devl_002": {
+                        "hasGuiOverlay": true,
+                        "name":"001_lnk_devl_002",
+                        "guiContent": [
+
+                            {
+                                "type": "image",
+                                "imagePath":"001_lnk_devl_en"
+                            },
+                            {
+                                "type": "text",
+                                "text":"Behold the lamb of god wbo takes away the sin if the world, proclaims John the Baptist in Joshn 1:29. Here we see the lamb - a popular symbol representing Jesus in art - standing on Death and the Devil defeated by Jesus' sacrifice."
+                            },
+                            {
+                                "type": "image",
+                                "imagePath":"001_lnk_devl_en"
+                            },
+                            {
+                                "type": "text",
+                                "text":"This flag is symbolic of the victorious resurrection as can be seen in Cranach's depictioon of Jesus Chrost as well as the lamb."
+                            }
+                        ]
                     }
-                ]
+                }
             }
-        ]
-    }
+
+        }
+     }
 }
