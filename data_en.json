@@ -43,8 +43,8 @@
 
                         {
                             "type": "image",
-                            "imagePath":"001_hig_snak_en",
-                            "text":"002"
+                            "imagePath":"001",
+                            "text":""
                         },
                         {
                             "type": "text",
@@ -60,8 +60,8 @@
 
                         {
                             "type": "image",
-                            "imagePath":"001_hig_snak_en",
-                            "text":"003"
+                            "imagePath":"001",
+                            "text":""
                         },
                         {
                             "type": "text",
@@ -70,8 +70,8 @@
                         },
                         {
                             "type": "image",
-                            "imagePath":"001_hig_snak_en",
-                            "text":"004"
+                            "imagePath":"002",
+                            "text":""
                         },
                         {
                             "type": "text",
@@ -115,7 +115,7 @@
 
                             {
                                 "type": "image",
-                                "imagePath":"002",
+                                "imagePath":"001",
                                 "text":""
                             },
                             {
@@ -125,7 +125,7 @@
                             },
                             {
                                 "type": "image",
-                                "imagePath":"003",
+                                "imagePath":"002",
                                 "text":""
                             },
                             {
