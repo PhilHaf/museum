@@ -5,7 +5,7 @@
         "hasHighlight": true,
         "hasTitle": true,
         "highlights": {
-        "001_hig_snak": {
+            "001_hig_snak": {
 
             "id": "snak",
             "name":"001_hig_snak",
@@ -21,7 +21,7 @@
 
                         {
                             "type": "image",
-                            "imagePath":"001_hig_snak_en",
+                            "imagePath":"001",
                             "text":""
                         },
                         {
@@ -44,7 +44,7 @@
                         {
                             "type": "image",
                             "imagePath":"001_hig_snak_en",
-                            "text":""
+                            "text":"001"
                         },
                         {
                             "type": "text",
@@ -61,7 +61,7 @@
                         {
                             "type": "image",
                             "imagePath":"001_hig_snak_en",
-                            "text":""
+                            "text":"001"
                         },
                         {
                             "type": "text",
@@ -71,7 +71,7 @@
                         {
                             "type": "image",
                             "imagePath":"001_hig_snak_en",
-                            "text":""
+                            "text":"002"
                         },
                         {
                             "type": "text",
@@ -113,7 +113,7 @@
 
                             {
                                 "type": "image",
-                                "imagePath":"001_lnk_devl_en"
+                                "imagePath":"001"
                             },
                             {
                                 "type": "text",
@@ -121,7 +121,7 @@
                             },
                             {
                                 "type": "image",
-                                "imagePath":"001_lnk_devl_en"
+                                "imagePath":"002"
                             },
                             {
                                 "type": "text",
