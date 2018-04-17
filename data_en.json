@@ -44,7 +44,7 @@
                         {
                             "type": "image",
                             "imagePath":"001_hig_snak_en",
-                            "text":"001"
+                            "text":"002"
                         },
                         {
                             "type": "text",
@@ -61,7 +61,7 @@
                         {
                             "type": "image",
                             "imagePath":"001_hig_snak_en",
-                            "text":"001"
+                            "text":"003"
                         },
                         {
                             "type": "text",
@@ -71,7 +71,7 @@
                         {
                             "type": "image",
                             "imagePath":"001_hig_snak_en",
-                            "text":"002"
+                            "text":"004"
                         },
                         {
                             "type": "text",
@@ -98,11 +98,13 @@
 
                             {
                                 "type": "image",
-                                "imagePath":"001_lnk_devl_en"
+                                "imagePath":"001",
+                                "text":""
                             },
                             {
                                 "type": "text",
-                                "text":"Man cannot meet the demands of the law as determined by Catholicism with his own strengthm so a skeleton representing Death and a horned beast representing the devil prod the sinner into Hell."
+                                "text":"Man cannot meet the demands of the law as determined by Catholicism with his own strengthm so a skeleton representing Death and a horned beast representing the devil prod the sinner into Hell.",
+                                "imagePath":""
                             }
                         ]
                     },
@@ -113,19 +115,23 @@
 
                             {
                                 "type": "image",
-                                "imagePath":"001"
+                                "imagePath":"002",
+                                "text":""
                             },
                             {
                                 "type": "text",
-                                "text":"Behold the lamb of god wbo takes away the sin if the world, proclaims John the Baptist in Joshn 1:29. Here we see the lamb - a popular symbol representing Jesus in art - standing on Death and the Devil defeated by Jesus' sacrifice."
+                                "text":"Behold the lamb of god wbo takes away the sin if the world, proclaims John the Baptist in Joshn 1:29. Here we see the lamb - a popular symbol representing Jesus in art - standing on Death and the Devil defeated by Jesus' sacrifice.",
+                                "imagePath":""
                             },
                             {
                                 "type": "image",
-                                "imagePath":"002"
+                                "imagePath":"003",
+                                "text":""
                             },
                             {
                                 "type": "text",
-                                "text":"This flag is symbolic of the victorious resurrection as can be seen in Cranach's depictioon of Jesus Chrost as well as the lamb."
+                                "text":"This flag is symbolic of the victorious resurrection as can be seen in Cranach's depictioon of Jesus Chrost as well as the lamb.",
+                                "imagePath":""
                             }
                         ]
                     }
