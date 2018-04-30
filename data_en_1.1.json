@@ -92,7 +92,7 @@
             },
             {
                 "id": "devl",
-                "name":"001_lnk_devl_001",
+                "name":"001_lnk_devl",
                 "pos":[0, 0, 0],
                 "rot":[0,0,0],
                 "scale": 1,
