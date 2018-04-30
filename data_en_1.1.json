@@ -103,7 +103,7 @@
                 "hasButton":true,
                 "hasTargetOverlay": true,
                 "hasSubExtra": false,
-                "isLink": false,
+                "isLink": true,
                 "hasPreselection":true,
                 "guiContent": [],
                 "highlights": [
