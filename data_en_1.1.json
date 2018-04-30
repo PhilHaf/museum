@@ -100,7 +100,7 @@
                 "hasClose": true,
                 "hasSound":false,
                 "hasBlur":false,
-                "hasButton":true,
+                "hasButton":false,
                 "hasTargetOverlay": true,
                 "hasSubExtra": false,
                 "isLink": true,
