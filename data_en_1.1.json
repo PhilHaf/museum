@@ -89,6 +89,75 @@
                         ]
                     }
                 ]
+            },
+            {
+                "id": "devl",
+                "name":"001_lnk_devl_001",
+                "pos":[0, 0, 0],
+                "rot":[0,0,0],
+                "scale": 1,
+                "hasGuiOverlay": false,
+                "hasClose": true,
+                "hasSound":false,
+                "hasBlur":false,
+                "hasButton":true,
+                "hasTargetOverlay": true,
+                "hasSubExtra": false,
+                "isLink": false,
+                "hasPreselection":true,
+                "guiContent": [],
+                "highlights": [
+                    {
+                        "pos":[-0.155, 0.1809, -0.0365],
+                        "rot":[90,0,0],
+                        "scale": 0.05,
+                        "hasGuiOverlay": true,
+                        "id":"001_lnk_devl_001",
+                        "guiContent": [
+
+                            {
+                                "type": "image",
+                                "imagePath":"001",
+                                "text":""
+                            },
+                            {
+                                "type": "text",
+                                "text":"Man cannot meet the demands of the law as determined by Catholicism with his own strengthm so a skeleton representing Death and a horned beast representing the devil prod the sinner into Hell.",
+                                "imagePath":""
+                            }
+                        ]
+                    },
+                    {
+                        "pos":[0.3844,0.2645, -0.239],
+                        "rot":[90,0,0],
+                        "scale": 0.05,
+                        "hasGuiOverlay": true,
+                        "id":"001_lnk_devl_002",
+                        "guiContent": [
+
+                            {
+                                "type": "image",
+                                "imagePath":"001",
+                                "text":""
+                            },
+                            {
+                                "type": "text",
+                                "text":"Behold the lamb of god wbo takes away the sin if the world, proclaims John the Baptist in Joshn 1:29. Here we see the lamb - a popular symbol representing Jesus in art - standing on Death and the Devil defeated by Jesus' sacrifice.",
+                                "imagePath":""
+                            },
+                            {
+                                "type": "image",
+                                "imagePath":"002",
+                                "text":""
+                            },
+                            {
+                                "type": "text",
+                                "text":"This flag is symbolic of the victorious resurrection as can be seen in Cranach's depictioon of Jesus Chrost as well as the lamb.",
+                                "imagePath":""
+                            }
+                        ]
+                    }
+                ]
             }
         ]
      }
