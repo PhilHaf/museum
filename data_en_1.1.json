@@ -11,10 +11,15 @@
                 "pos":[-0.195, 0.112, 0.08],
                 "scale": 0.05,
                 "rot":[0,0,0],
-                "isLink": false,
-                "hasSound":false,
-                "withBlur":false,
                 "hasGuiOverlay": false,
+                "hasClose": true,
+                "hasSound":false,
+                "hasBlur":false,
+                "hasButton":true,
+                "hasTargetOverlay": true,
+                "hasSubExtra": false,
+                "isLink": false,
+                "hasPreselection":true,
                 "guiContent": [],
                 "highlights": [
                     {
@@ -35,7 +40,51 @@
                             {
                                 "type": "text",
                                 "imagePath":"",
-                                "text":"John 3:14 refers to moses raising the snake on the cross to save the people, just as Jesus was raised on the corss to save sinners from themselves."
+                                "text":"Johnny 3:14 refers to moses raising the snake on the cross to save the people, just as Jesus was raised on the corss to save sinners from themselves."
+                            }
+                        ]
+                    },
+                    {
+                        "hasGuiOverlay": true,
+                        "id":"001_hig_snak_002",
+                        "guiContent": [
+
+                            {
+                                "type": "image",
+                                "imagePath":"001",
+                                "text":""
+                            },
+                            {
+                                "type": "text",
+                                "text":"King Hezekiah refers to the snake as Nehushtan, meaing a brazen thing, or an object made of brass.",
+                                "imagePath":""
+                            }
+                        ]
+                    },
+                    {
+                        "hasGuiOverlay": true,
+                        "id":"001_hig_snak_003",
+                        "guiContent": [
+
+                            {
+                                "type": "image",
+                                "imagePath":"001",
+                                "text":""
+                            },
+                            {
+                                "type": "text",
+                                "text":"Moses erected the bronze serpent at the end of the 40-year journey through the desert before reaching the promised land.",
+                                "imagePath":""
+                            },
+                            {
+                                "type": "image",
+                                "imagePath":"002",
+                                "text":""
+                            },
+                            {
+                                "type": "text",
+                                "text":"Brazen Serpent Monument. The artist Giovanni Fantoni merged the bronze serpent of Moses on the crucifix on a 10-meter high statue on Mount Nebo, presumed to be the site where Moses died in 1407 B.C.",
+                                "imagePath":""
                             }
                         ]
                     }
