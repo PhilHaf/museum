@@ -109,7 +109,7 @@
                 "highlights": [
                     {
                         "pos":[-0.155, 0.1809, -0.0365],
-                        "rot":[90,0,0],
+                        "rot":[0,0,0],
                         "scale": 0.05,
                         "hasGuiOverlay": true,
                         "id":"001_lnk_devl_001",
@@ -129,7 +129,7 @@
                     },
                     {
                         "pos":[0.3844,0.2645, -0.239],
-                        "rot":[90,0,0],
+                        "rot":[0,0,0],
                         "scale": 0.05,
                         "hasGuiOverlay": true,
                         "id":"001_lnk_devl_002",
