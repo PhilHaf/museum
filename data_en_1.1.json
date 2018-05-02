@@ -8,8 +8,8 @@
             {
                 "id": "snak",
                 "name":"001_hig_snak",
-                "pos":[-0.195, 0.112, 0.08],
-                "scale": 0.05,
+                "pos":[-20.48, 10.2, 8.12],
+                "scale": 5,
                 "rot":[0,0,0],
                 "hasGuiOverlay": false,
                 "hasClose": true,
