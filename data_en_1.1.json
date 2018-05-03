@@ -1,6 +1,6 @@
-{
-    "001": {
-        
+[
+    {
+        "id":"001",
         "title": "law and gospel",
         "hasHighlight": true,
         "hasTitle": true,
@@ -158,5 +158,5 @@
                 ]
             }
         ]
-     }
-}
+    }
+]
