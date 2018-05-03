@@ -6,8 +6,7 @@
         "hasTitle": true,
         "highlights": [
             {
-                "id": "snak",
-                "name":"001_hig_snak",
+                "id":"001_hig_snak",
                 "pos":[-0.195, 0.112, 0.08],
                 "scale": 0.05,
                 "rot":[0,0,0],
@@ -91,8 +90,7 @@
                 ]
             },
             {
-                "id": "devl",
-                "name":"001_lnk_devl",
+                "id":"001_lnk_devl",
                 "pos":[0, 0, 0],
                 "rot":[0,0,0],
                 "scale": 1,
